@@ -1,2 +1,4 @@
 # hello-world
-Sample Repository created
+Hi People,
+
+Creating this sample file to learn GIT.
